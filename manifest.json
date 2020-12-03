@@ -1,0 +1,18 @@
+{
+    "name": "Toggle Files Changed",
+    "version": "1.0",
+    "description": "Helps you toggle all your Github Files changed on Pull Requests",
+    "icons": {
+        "16": "images/checkbox16.png",
+        "32": "images/checkbox32.png",
+        "128": "images/checkbox128.png" 
+    },
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "activeTab",
+        "<all_urls>"
+    ],
+    "manifest_version": 2
+}
