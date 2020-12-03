@@ -2,7 +2,7 @@
 This is a Chrome Extension that helps you close and open all your Files Changed tabs with one click, facilitating your reviews. :D
 
 ## Installing
-Download or clone the repository to your computer, than, acces the link: chrome://extensions .
+Download or clone the repository to your computer, than, acces the link: [chrome://extensions](chrome://extensions) .  
 Click at "Developer Mode" and load the folder of the repository.
 
 ## Examples
